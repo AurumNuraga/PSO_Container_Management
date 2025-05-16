@@ -1,6 +1,6 @@
 # Particle Swarm Optimization (PSO)
 
-Proyek ini merupakan implementasi algoritma **Particle Swarm Optimization (PSO)** menggunakan Python dalam format Jupyter Notebook. PSO adalah algoritma optimasi berbasis populasi yang terinspirasi dari perilaku sosial kawanan burung atau ikan dalam pencarian makanan.
+Proyek ini merupakan implementasi algoritma **Particle Swarm Optimization (PSO)** untuk mengoptimalkan susunan peti kemas menggunakan Python dalam format Jupyter Notebook. PSO adalah algoritma optimasi berbasis populasi yang terinspirasi dari perilaku sosial kawanan burung atau ikan dalam pencarian makanan.
 
 ##  Instalasi
 
@@ -34,4 +34,7 @@ pip install numpy matplotlib
 
 ##  Contoh Output
 
-Notebook menyertakan grafik yang menunjukkan bagaimana partikel dalam PSO mencari solusi terbaik dari fungsi yang dioptimasi.
+Notebook menyertakan grafik dan gambar yang menginformasikan fitness dan bentuk partikel.
+
+![Grafik Konvergensi](images/convergence_plot.png)
+![Contoh Partikel](images/particle.png)
