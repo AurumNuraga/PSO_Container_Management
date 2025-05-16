@@ -36,5 +36,5 @@ pip install numpy matplotlib
 
 Notebook menyertakan grafik dan gambar yang menginformasikan fitness dan bentuk partikel.
 
-![Grafik Konvergensi](images/convergence_plot.png)
-![Contoh Partikel](images/particle.png)
+![Grafik Konvergensi](convergence_plot.png)
+![Contoh Partikel](particle.png)
